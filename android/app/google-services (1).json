@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "895478766118",
+    "project_id": "cybershop-eee89",
+    "storage_bucket": "cybershop-eee89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895478766118:android:f3360a5f06a593b51564e7",
+        "android_client_info": {
+          "package_name": "com.cybershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895478766118-bm0qp0lt3dqiskverjss3qle80ns1adf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihKXNVyQ5cDNe8TjZOOj-3ZDLkfnYFxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895478766118-bm0qp0lt3dqiskverjss3qle80ns1adf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895478766118:android:4b83b6b18ccbc2d61564e7",
+        "android_client_info": {
+          "package_name": "com.noumanpracticeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895478766118-bm0qp0lt3dqiskverjss3qle80ns1adf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihKXNVyQ5cDNe8TjZOOj-3ZDLkfnYFxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895478766118-bm0qp0lt3dqiskverjss3qle80ns1adf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
